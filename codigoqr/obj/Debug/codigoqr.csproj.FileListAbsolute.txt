@@ -1,0 +1,14 @@
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\bin\Debug\codigoqr.exe.config
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\bin\Debug\codigoqr.exe
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\bin\Debug\codigoqr.pdb
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.Form1.resources
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.Properties.Resources.resources
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.csproj.CopyComplete
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.exe
+C:\Users\Cristian\source\repos\codigoqr\codigoqr\obj\Debug\codigoqr.pdb
